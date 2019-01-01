@@ -8,11 +8,11 @@
 
 # Project Features
 
-### Landing Page
+### Landing Page ---------------------------------------------
 
 <img width="1289" alt="screen shot 2019-01-01 at 2 44 21 pm" src="https://user-images.githubusercontent.com/41134618/50575898-a12fc100-0dd4-11e9-8426-c0cbdadba9c3.png">
 
-### Dislike video
+### Dislike video ---------------------------------------------
 
 <img width="1283" alt="screen shot 2019-01-01 at 2 59 54 pm" src="https://user-images.githubusercontent.com/41134618/50575969-fcae7e80-0dd5-11e9-8667-0565362994db.png">
 
