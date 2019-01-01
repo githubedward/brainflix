@@ -14,7 +14,7 @@
 
 ### Dislike button
 
-<img width="1289" alt="screen shot 2019-01-01 at 2 46 26 pm" src="https://user-images.githubusercontent.com/41134618/50575908-ddfbb800-0dd4-11e9-8628-80c9330357ee.png">
+<img width="1283" alt="screen shot 2019-01-01 at 2 59 54 pm" src="https://user-images.githubusercontent.com/41134618/50575969-fcae7e80-0dd5-11e9-8667-0565362994db.png">
 
 ### Go to a different video
 
