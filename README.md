@@ -32,7 +32,7 @@
 
 <img width="1288" alt="screen shot 2019-01-01 at 2 49 18 pm" src="https://user-images.githubusercontent.com/41134618/50575939-6b3f0c80-0dd5-11e9-989d-74935f568fd4.png">
 
-### Delete Comment ----------------------------------------------------------------
+### Delete comment ----------------------------------------------------------------
 
 <img width="1289" alt="screen shot 2019-01-01 at 2 49 38 pm" src="https://user-images.githubusercontent.com/41134618/50575940-6bd7a300-0dd5-11e9-9689-50527fb48afd.png">
 
