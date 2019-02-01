@@ -8,8 +8,10 @@
 
 # Project Features
 
+### Landing Page
 ![landing](https://user-images.githubusercontent.com/41134618/52093859-c3ab2a80-258a-11e9-8774-4967f58a3b2a.gif)
 
+### Demo
 ![demo1](https://user-images.githubusercontent.com/41134618/52093644-f4d72b00-2589-11e9-841f-df68e6205a51.gif)
 
 - Icon tooltips
