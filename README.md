@@ -1,5 +1,5 @@
 # Project Background
-- The app presented in this repo was developed in 3 one-week sprints (10/29/18 - 11/16/18)
+- The app presented in this repo was developed in 3 one-week sprints (10/29/18 - 11/16/18) at BrainStation
 - Brainflix is a video streaming platform
 
 # Tech Stack
